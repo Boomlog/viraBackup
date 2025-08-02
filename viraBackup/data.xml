@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<websites>
+  <website>
+    <domain>domain.com</domain>
+    <path>C:\inetpub\wwwroot\domain.com</path>
+    <excludePath></excludePath>
+    <dbName>domaincom</dbName>        
+  </website>
+  <website>
+    <domain>domain.net</domain>
+    <path>C:\inetpub\wwwroot\domain.net</path>
+    <excludePath></excludePath>
+    <dbName>domainnet,multipleDB1,multipleDB2</dbName>
+  </website>
+  <website>
+    <domain>MyFiles</domain>
+    <path>D:\MyFiles</path>
+    <excludePath></excludePath>
+    <dbName></dbName>
+  </website>
+</websites> 
